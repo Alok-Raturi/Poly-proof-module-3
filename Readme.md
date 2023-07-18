@@ -13,3 +13,7 @@ Assessment 3 of Poly proof
         * After configuration, run npx hardhat run scripts/deploy.ts --network <network name>
         * You will get a contract address and a verification status with respect to your input.json.
 
+### Important command: 
+       * npm i  => to install all the dependencies of your project.
+       * npx hardhat circom  => to compile the circuit
+       * npx hardhat run scripts/deploy.ts --network <network name>  => to deploy the verification contract on a testnet
