@@ -32,3 +32,7 @@ Assessment 3 of Poly proof
                c <== a * b;  
        }
        component main = Multiplier2();
+
+### Output:
+![image](https://github.com/Alok-Raturi/Poly-proof-module-3/assets/110283609/5dcaab2a-6a9e-4c80-a566-fc62c90e187e)
+
