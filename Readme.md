@@ -18,7 +18,7 @@ Assessment 3 of Poly proof
        * npx hardhat circom  => to compile the circuit
        * npx hardhat run scripts/deploy.ts --network <network name>  => to deploy the verification contract on a testnet
 
-### Template Code:
+### Template Circom Code:
         pragma circom 2.0.0;
         
         /*This circuit template checks that c is the multiplication of a and b.*/  
